@@ -1,6 +1,4 @@
-# Sales_Forecast_App
-
-Sales Forecasting # <center>Sales Forecasting App with Streamlit</center>
+# <center>Sales Forecasting App with Streamlit</center>
 
 ## Objective
 
