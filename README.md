@@ -10,9 +10,9 @@ Streamlit is a Python library that simplifies the process of building interactiv
 
 ## Summary
 
-| Code | Name                                 | Published Article | Deployed App |
-| ---- | ------------------------------------ | :---------------: | -----------: |
-| LP3  | Sales Forecasting App with Streamlit |                   |              |
+| Code | Name                                 |                                     Published Article                                      | Deployed App |
+| ---- | ------------------------------------ | :----------------------------------------------------------------------------------------: | -----------: |
+| LP3  | Sales Forecasting App with Streamlit | [Article](https://medium.com/@chipmnkal/sales-forecasting-app-with-streamlit-d40b2a437e77) |              |
 
 ## Author
 
