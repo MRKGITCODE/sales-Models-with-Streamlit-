@@ -7,6 +7,7 @@ import joblib
 from streamlit_lottie import st_lottie
 from datetime import datetime
 from sklearn.preprocessing import OrdinalEncoder
+import pickle
 
 # Load the encoders from files
 LE = joblib.load('Encoders/label_encoder.pkl')
