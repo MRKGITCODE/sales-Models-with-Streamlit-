@@ -12,7 +12,7 @@ Streamlit is a Python library that simplifies the process of building interactiv
 
 | Code | Name                                 |                                     Published Article                                      | Deployed App |
 | ---- | ------------------------------------ | :----------------------------------------------------------------------------------------: | -----------: |
-| LP3  | Sales Forecasting App with Streamlit | [Article](https://medium.com/@chipmnkal/sales-forecasting-app-with-streamlit-d40b2a437e77) |   [Application](https://huggingface.co/spaces/VINAL/Sales_forcast_app)           |
+| LP3  | Sales Forecasting App with Streamlit | [Article](https://medium.com/@chipmnkal/sales-forecasting-app-with-streamlit-d40b2a437e77) |   [Application](https://vinal-sales-forcast-app.hf.space)           |
 
 ## Author
 
